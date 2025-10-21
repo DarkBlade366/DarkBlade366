@@ -1,4 +1,5 @@
-<img src="https://capsule-render.vercel.app/api?type=dark&color=auto&height=180&section=header&text=DarkBlade366%20%7C%20Xavier%20Ramirez%20Fernandez&fontSize=35&fontAlign=50&fontColor=fff" alt="banner" />
+![banner](https://capsule-render.vercel.app/api?type=dark&color=auto&height=180&section=header&text=DarkBlade366%20%7C%20Xavier%20Ramirez%20Fernandez&fontSize=35&fontAlign=50&fontColor=fff)
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=dark&color=auto&height=180&section=header&text=DarkBlade366%20%7C%20Xavier%20Ramirez%20Fernandez&fontSize=35&fontAlign=50&fontColor=fff" alt="banner" />
 </p>
