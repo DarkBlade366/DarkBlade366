@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://github.com/DarkBlade366/DarkBlade366/Banner.png?raw=true" alt="DarkBlade366 Banner" width="100%">
-</p>
+![Banner](assets/banner.png)
 <h2 align="center">¡Hola! 👋 Soy Xavier Ramirez Fernandez</h2>
 <h4 align="center">Estudiante de Ingeniería Informática en CUJAE | Futuro Ingeniero</h4>
 
