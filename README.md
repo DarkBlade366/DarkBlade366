@@ -39,5 +39,5 @@ Apasionado por la tecnología y el desarrollo de software. Me encanta aprender y
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/DarkBlade366/DarkBlade366/main/profile-dark.svg" alt="Dark Mode" height="40"/>
+  IN PROGRESS
 </p>
