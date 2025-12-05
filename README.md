@@ -14,7 +14,7 @@ Apasionado por la tecnología y el desarrollo de software. Me encanta aprender y
 
 <div align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
@@ -26,22 +26,11 @@ Apasionado por la tecnología y el desarrollo de software. Me encanta aprender y
 ### 🌱 Aprendiendo actualmente
 
 - Laravel (Framework PHP)
+- JavaScript
 - Desarrollo web moderno
 - Buenas prácticas en programación
 
 ---
-
-### 📁 Proyectos sugeridos para inspirarte
-
-*Estos son proyectos populares que puedes explorar, contribuir o usar como referencia:*
-
-- [Laravel Starter Kit](https://github.com/laravel/laravel) – Base para aplicaciones Laravel.
-- [awesome-laravel](https://github.com/chiraggude/awesome-laravel) – Lista de recursos y proyectos útiles en Laravel.
-- [Python 100 Days](https://github.com/jackfrued/Python-100-Days) – Retos para mejorar tus habilidades en Python.
-- [Java Design Patterns](https://github.com/iluwatar/java-design-patterns) – Colección de patrones de diseño en Java.
-
----
-
 ### 📫 Contacto
 
 - **WhatsApp:** +53 52662487
@@ -52,7 +41,3 @@ Apasionado por la tecnología y el desarrollo de software. Me encanta aprender y
 <p align="center">
   <img src="https://raw.githubusercontent.com/DarkBlade366/DarkBlade366/main/profile-dark.svg" alt="Dark Mode" height="40"/>
 </p>
-
-<div align="center">
-  <sub>Modo oscuro activado · Perfil en construcción · ¡Conéctate para colaborar!</sub>
-</div>
