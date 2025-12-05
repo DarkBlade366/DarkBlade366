@@ -35,9 +35,3 @@ Apasionado por la tecnología y el desarrollo de software. Me encanta aprender y
 
 - **WhatsApp:** +53 52662487
 - **Correo:** xavierramirezf@gmail.com
-
----
-
-<p align="center">
-  <img src="https://images.unsplash.com/photo-1542831371-29b0f74f9713?ixlib=rb-4.0.3&auto=format&fit=crop&w=1600&h=400&q=80" />
-</p>
